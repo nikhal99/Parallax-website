@@ -1,3 +1,6 @@
+https://nikhal99.github.io/Parallax-website/
+
+
 # Parallex-effect-project
 A Fantastic Experience Today, we learned about PARALLAX WEBSITE, which was very well explained and taught to us by Love Babbar. I've learned 3-D Transformation, 3-D Preserve, and a lot more.
 
